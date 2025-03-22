@@ -1,0 +1,1 @@
+c.execute('DELETE FROM Manageri WHERE ManagerID=7')
